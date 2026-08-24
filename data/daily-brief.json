@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:44:11.908461Z",
+  "generated_at": "2026-08-24T13:14:00.599817Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -18,7 +18,7 @@
           "title_en": "Codex CLI 0.149.1",
           "title_original": "Codex CLI 0.149.1",
           "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.149.1新增Apple Messages插件、Site协同编辑与可编辑URL，并在欧洲上线Computer History；GitLab支持进入beta，所有ChatGPT计划均可连接项目并自动审查合并请求。",
+          "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
@@ -38,7 +38,7 @@
           "title_en": "Codex CLI 0.149.1",
           "title_original": "Codex CLI 0.149.1",
           "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.149.1新增Apple Messages插件、Site协同编辑与可编辑URL，并在欧洲上线Computer History；GitLab支持进入beta，所有ChatGPT计划均可连接项目并自动审查合并请求。",
+          "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8441,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -74,18 +74,16 @@
         "title_en": "Codex CLI 0.149.1",
         "title_original": "Codex CLI 0.149.1",
         "summary": null,
-        "recommend_reason_zh": "Codex CLI 0.149.1新增Apple Messages插件、Site协同编辑与可编辑URL，并在欧洲上线Computer History；GitLab支持进入beta，所有ChatGPT计划均可连接项目并自动审查合并请求。",
+        "recommend_reason_zh": null,
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "小版本迭代，有需要的看更新日志再升。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -103,7 +101,7 @@
           "title_en": null,
           "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
           "summary": null,
-          "recommend_reason_zh": "8月23日，Oak Deer Robotics发布全球首个基于真实厨房数据的多模态烹饪AI基础模型CookingMuse ChefStart，并推出3K Visual AI炒菜机器人与具身烹饪机器人XianChao Ark，覆盖从理解烹饪逻辑到具身执行全链条。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30580",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -123,7 +121,7 @@
           "title_en": null,
           "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
           "summary": null,
-          "recommend_reason_zh": "8月23日，Oak Deer Robotics发布全球首个基于真实厨房数据的多模态烹饪AI基础模型CookingMuse ChefStart，并推出3K Visual AI炒菜机器人与具身烹饪机器人XianChao Ark，覆盖从理解烹饪逻辑到具身执行全链条。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30580",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -133,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -158,18 +156,16 @@
         "title_en": null,
         "title_original": "全球首个真实数据训练烹饪AI基础模型发布，炒菜机器人进入“具身智能”新时代",
         "summary": null,
-        "recommend_reason_zh": "8月23日，Oak Deer Robotics发布全球首个基于真实厨房数据的多模态烹饪AI基础模型CookingMuse ChefStart，并推出3K Visual AI炒菜机器人与具身烹饪机器人XianChao Ark，覆盖从理解烹饪逻辑到具身执行全链条。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30580",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "行业里程碑但离开发者很远，等模型开放再评估。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -187,7 +183,7 @@
           "title_en": null,
           "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
           "summary": null,
-          "recommend_reason_zh": "Xiaopeng Robotics完成超9亿美元首轮融资，投后估值达63亿美元，创国内具身智能最大单笔私募纪录；IDG Capital领投，Tencent、Alibaba参投。本文详解融资细节，以及资金将如何加速人形机器人量产与物理AI模型迭代。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30579",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -207,7 +203,7 @@
           "title_en": null,
           "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
           "summary": null,
-          "recommend_reason_zh": "Xiaopeng Robotics完成超9亿美元首轮融资，投后估值达63亿美元，创国内具身智能最大单笔私募纪录；IDG Capital领投，Tencent、Alibaba参投。本文详解融资细节，以及资金将如何加速人形机器人量产与物理AI模型迭代。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30579",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -217,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -242,18 +238,16 @@
         "title_en": null,
         "title_original": "具身智能资本热浪再起，小鹏机器人首轮估值突破63亿美元",
         "summary": null,
-        "recommend_reason_zh": "Xiaopeng Robotics完成超9亿美元首轮融资，投后估值达63亿美元，创国内具身智能最大单笔私募纪录；IDG Capital领投，Tencent、Alibaba参投。本文详解融资细节，以及资金将如何加速人形机器人量产与物理AI模型迭代。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30579",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "融资估值不写代码，等真机量产和 API 开放再看。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -271,7 +265,7 @@
           "title_en": null,
           "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
           "summary": null,
-          "recommend_reason_zh": "美国法律AI独角兽Harvey基于Moonshot AI开源权重模型Kimi K3推出法律专用模型Tenet，开创中国开源模型进入美国头部垂直AI公司训练体系先例；Harvey估值110亿美元，服务2400余家机构与20万律师。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30577",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -291,7 +285,7 @@
           "title_en": null,
           "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
           "summary": null,
-          "recommend_reason_zh": "美国法律AI独角兽Harvey基于Moonshot AI开源权重模型Kimi K3推出法律专用模型Tenet，开创中国开源模型进入美国头部垂直AI公司训练体系先例；Harvey估值110亿美元，服务2400余家机构与20万律师。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30577",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -301,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,18 +320,16 @@
         "title_en": null,
         "title_original": "中国开源模型出海：法律 AI 独角兽 Harvey 基于 Kimi K3 推出 Tenet",
         "summary": null,
-        "recommend_reason_zh": "美国法律AI独角兽Harvey基于Moonshot AI开源权重模型Kimi K3推出法律专用模型Tenet，开创中国开源模型进入美国头部垂直AI公司训练体系先例；Harvey估值110亿美元，服务2400余家机构与20万律师。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30577",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "Kimi K3被国际独角兽采用，选型时可加分，但无直接上手价值。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -355,7 +347,7 @@
           "title_en": null,
           "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
           "summary": null,
-          "recommend_reason_zh": "8月24日消息，ByteDance将TRAE和Coze团队并入豆包，TRAE Work与Coze能力整合，TRAE IDE和CLI继续作为豆包编程产品线，相关团队向豆包产品负责人赵琦汇报。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30576",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -375,7 +367,7 @@
           "title_en": null,
           "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
           "summary": null,
-          "recommend_reason_zh": "8月24日消息，ByteDance将TRAE和Coze团队并入豆包，TRAE Work与Coze能力整合，TRAE IDE和CLI继续作为豆包编程产品线，相关团队向豆包产品负责人赵琦汇报。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30576",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -385,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,18 +402,16 @@
         "title_en": null,
         "title_original": "字节整合AI办公产品，TRAE、扣子团队并入豆包",
         "summary": null,
-        "recommend_reason_zh": "8月24日消息，ByteDance将TRAE和Coze团队并入豆包，TRAE Work与Coze能力整合，TRAE IDE和CLI继续作为豆包编程产品线，相关团队向豆包产品负责人赵琦汇报。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30576",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "组织调整不影响今天写代码，等产品实际变化再评估。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -439,7 +429,7 @@
           "title_en": null,
           "title_original": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
           "summary": null,
-          "recommend_reason_zh": "小米发布首款大模型AI加速芯片Xuanjie O100，采用6nm工艺与3D堆叠，内存带宽1.22TB/s，以存内计算架构提升推理性能。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30574",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -459,7 +449,7 @@
           "title_en": null,
           "title_original": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
           "summary": null,
-          "recommend_reason_zh": "小米发布首款大模型AI加速芯片Xuanjie O100，采用6nm工艺与3D堆叠，内存带宽1.22TB/s，以存内计算架构提升推理性能。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30574",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -469,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -494,18 +484,16 @@
         "title_en": null,
         "title_original": "小米玄戒O100芯片发布：6nm工艺与3D堆叠赋能AI全速狂飙",
         "summary": null,
-        "recommend_reason_zh": "小米发布首款大模型AI加速芯片Xuanjie O100，采用6nm工艺与3D堆叠，内存带宽1.22TB/s，以存内计算架构提升推理性能。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30574",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "芯片参数看看就好，不开放接口不写代码，等真机评测再说。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -523,7 +511,7 @@
           "title_en": null,
           "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
           "summary": null,
-          "recommend_reason_zh": "Yahoo CEO Jim Lanzone 借“互联网OG”身份，推出自研AI回答引擎Scout，整合开放网络信息与自有30年搜索历史数据，瞄准Z世代，以品牌信任度寻求翻身。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30573",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -543,7 +531,7 @@
           "title_en": null,
           "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
           "summary": null,
-          "recommend_reason_zh": "Yahoo CEO Jim Lanzone 借“互联网OG”身份，推出自研AI回答引擎Scout，整合开放网络信息与自有30年搜索历史数据，瞄准Z世代，以品牌信任度寻求翻身。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30573",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -553,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,18 +566,16 @@
         "title_en": null,
         "title_original": "雅虎借\"互联网 OG\"翻身：自研 AI 回答引擎 Scout 剑指 Z 世代",
         "summary": null,
-        "recommend_reason_zh": "Yahoo CEO Jim Lanzone 借“互联网OG”身份，推出自研AI回答引擎Scout，整合开放网络信息与自有30年搜索历史数据，瞄准Z世代，以品牌信任度寻求翻身。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30573",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "产品刚发布还没实测，等开放了再看值不值得换。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -621,7 +607,7 @@
           "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "summary": null,
-          "recommend_reason_zh": "这篇文章指出Anthropic最强的Opus模型用户寥寥，因95%的人一生都用不上它，而更便宜的工具已满足多数需求，揭示高端AI的市场困境。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49411102",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -635,7 +621,7 @@
           "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "summary": null,
-          "recommend_reason_zh": "Anthropic最强模型Fable 5面临企业客户需求疲软，被更廉价工具抢走风头。本文揭示高价AI模型在商业落地中的真实困境，并分析定价与用户偏好如何重塑竞争格局。",
+          "recommend_reason_zh": null,
           "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -671,7 +657,7 @@
           "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "summary": null,
-          "recommend_reason_zh": "这篇文章指出Anthropic最强的Opus模型用户寥寥，因95%的人一生都用不上它，而更便宜的工具已满足多数需求，揭示高端AI的市场困境。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49411102",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -685,7 +671,7 @@
           "title_en": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "title_original": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
           "summary": null,
-          "recommend_reason_zh": "Anthropic最强模型Fable 5面临企业客户需求疲软，被更廉价工具抢走风头。本文揭示高价AI模型在商业落地中的真实困境，并分析定价与用户偏好如何重塑竞争格局。",
+          "recommend_reason_zh": null,
           "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -695,15 +681,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5996,
-      "importance": 0.5996,
-      "importance_score": 0.5996,
+      "score": 0.5965,
+      "importance": 0.5965,
+      "importance_score": 0.5965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8015,
+        "recency": 0.7844,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -725,12 +711,10 @@
         "source_name": "OPML RSS"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "模型贵不贵是选型硬指标，廉价替代能跑通就先用着。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -748,7 +732,7 @@
           "title_en": null,
           "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "summary": null,
-          "recommend_reason_zh": "韩国国会一致通过《个人信息保护法》修正案，允许AI开发者经委员会审查后使用限定个人数据，此前豁免仅限语音反欺诈与自主机器人场景，为期两年可延至四年。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30575",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -768,7 +752,7 @@
           "title_en": null,
           "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
           "summary": null,
-          "recommend_reason_zh": "韩国国会一致通过《个人信息保护法》修正案，允许AI开发者经委员会审查后使用限定个人数据，此前豁免仅限语音反欺诈与自主机器人场景，为期两年可延至四年。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30575",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -778,15 +762,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,23 +787,21 @@
         "title_en": null,
         "title_original": "韩国修法为 AI 开绿灯：经监管审查后可使用限定个人数据",
         "summary": null,
-        "recommend_reason_zh": "韩国国会一致通过《个人信息保护法》修正案，允许AI开发者经委员会审查后使用限定个人数据，此前豁免仅限语音反欺诈与自主机器人场景，为期两年可延至四年。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30575",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "韩国数据政策放宽，做跨境业务需关注合规细则，短期无直接工具可用。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
       "story_id": "story_de869c952dfe",
-      "title": "Etched Sohu vs Nvidia：Transformer ASIC与GPU的2026对决",
+      "title": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026） / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
       "url": "https://news.ycombinator.com/item?id=49411178",
       "primary_url": "https://news.ycombinator.com/item?id=49411178",
       "source": "hackernews",
@@ -827,12 +809,12 @@
       "sources": [
         {
           "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
-          "title": "Etched Sohu vs Nvidia：Transformer ASIC与GPU的2026对决",
-          "title_zh": "Etched Sohu vs Nvidia：Transformer ASIC与GPU的2026对决",
+          "title": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026） / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_zh": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026）",
           "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
-          "recommend_reason_zh": "Etched Sohu作为Transformer专用ASIC，8芯片服务器声称对Llama 70B达每秒50万token，但数据未独立验证，且ASIC流片慢，总落后最新开源权重模型。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49411178",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -855,12 +837,12 @@
         },
         {
           "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
-          "title": "Etched Sohu：8芯片服务器跑Llama 70B每秒50万tokens",
-          "title_zh": "Etched Sohu：8芯片服务器跑Llama 70B每秒50万tokens",
+          "title": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026） / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_zh": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026）",
           "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
-          "recommend_reason_zh": "Etched Sohu用8芯片服务器跑Llama 70B达每秒50万tokens，对比H100约700 tokens/秒，剖析Transformer专用ASIC放弃可编程性换来的性能与风险。",
+          "recommend_reason_zh": null,
           "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -874,7 +856,7 @@
           "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
           "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
           "summary": null,
-          "recommend_reason_zh": "Etched Sohu以8芯片服务器实现Llama 70B每秒50万token，较H100单卡700 token优势巨大，但纯Transformer ASIC牺牲可编程性；已融资8亿美元、签约超10亿，首台机架2026夏交付。",
+          "recommend_reason_zh": null,
           "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -891,12 +873,12 @@
       "items": [
         {
           "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
-          "title": "Etched Sohu vs Nvidia：Transformer ASIC与GPU的2026对决",
-          "title_zh": "Etched Sohu vs Nvidia：Transformer ASIC与GPU的2026对决",
+          "title": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026） / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_zh": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026）",
           "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
-          "recommend_reason_zh": "Etched Sohu作为Transformer专用ASIC，8芯片服务器声称对Llama 70B达每秒50万token，但数据未独立验证，且ASIC流片慢，总落后最新开源权重模型。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49411178",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -919,12 +901,12 @@
         },
         {
           "id": "4c8d577271c898822181c7cb1de5a6ca84193dd2",
-          "title": "Etched Sohu：8芯片服务器跑Llama 70B每秒50万tokens",
-          "title_zh": "Etched Sohu：8芯片服务器跑Llama 70B每秒50万tokens",
+          "title": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026） / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+          "title_zh": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026）",
           "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
           "summary": null,
-          "recommend_reason_zh": "Etched Sohu用8芯片服务器跑Llama 70B达每秒50万tokens，对比H100约700 tokens/秒，剖析Transformer专用ASIC放弃可编程性换来的性能与风险。",
+          "recommend_reason_zh": null,
           "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -938,7 +920,7 @@
           "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
           "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026) – Spheron Blog",
           "summary": null,
-          "recommend_reason_zh": "Etched Sohu以8芯片服务器实现Llama 70B每秒50万token，较H100单卡700 token优势巨大，但纯Transformer ASIC牺牲可编程性；已融资8亿美元、签约超10亿，首台机架2026夏交付。",
+          "recommend_reason_zh": null,
           "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -948,15 +930,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5594,
+      "importance": 0.5594,
+      "importance_score": 0.5594,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8154,
+        "recency": 0.798,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -967,23 +949,21 @@
       "latest_at": "2026-08-23T21:36:17.145000Z",
       "primary_item": {
         "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
-        "title": "Etched Sohu vs Nvidia：Transformer ASIC与GPU的2026对决",
-        "title_zh": "Etched Sohu vs Nvidia：Transformer ASIC与GPU的2026对决",
+        "title": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026） / Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+        "title_zh": "Etched Sohu 对阵 Nvidia：Transformer ASIC 对阵 GPU（2026）",
         "title_en": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
         "title_original": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
         "summary": null,
-        "recommend_reason_zh": "Etched Sohu作为Transformer专用ASIC，8芯片服务器声称对Llama 70B达每秒50万token，但数据未独立验证，且ASIC流片慢，总落后最新开源权重模型。",
+        "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49411178",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "ASIC方案尚在路线图，离实际开发很远，短期选型不受影响，观望即可。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -1001,7 +981,7 @@
           "title_en": null,
           "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
           "summary": null,
-          "recommend_reason_zh": "WAIC 2026数据显示，130家参展实体中83家主打AI Agent或智能应用，仅18家专注基础大模型。文章由此切入，分析AI竞争从单一模型走向系统，AGI实现的关键在于组织与长期深耕。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30569",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1021,7 +1001,7 @@
           "title_en": null,
           "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
           "summary": null,
-          "recommend_reason_zh": "WAIC 2026数据显示，130家参展实体中83家主打AI Agent或智能应用，仅18家专注基础大模型。文章由此切入，分析AI竞争从单一模型走向系统，AGI实现的关键在于组织与长期深耕。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30569",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1031,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1056,18 +1036,126 @@
         "title_en": null,
         "title_original": "2026CSDI：AGI前夜，属于懂Agent、更懂模型的长期深耕企业",
         "summary": null,
-        "recommend_reason_zh": "WAIC 2026数据显示，130家参展实体中83家主打AI Agent或智能应用，仅18家专注基础大模型。文章由此切入，分析AI竞争从单一模型走向系统，AGI实现的关键在于组织与长期深耕。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30569",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "会议话术，没有具体工具或API，暂时不用行动。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
+      }
+    },
+    {
+      "story_id": "story_32d218d4bb08",
+      "title": "Anthropic candidates face blunt money question",
+      "url": "https://news.ycombinator.com/item?id=49418449",
+      "primary_url": "https://news.ycombinator.com/item?id=49418449",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a0be46abf8c136e684f82e6c85205dc739b0d441",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49418449",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T13:14:25.297000Z"
+        },
+        {
+          "id": "615756d844dc712f1271a81f80d87bb978a26213",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T11:55:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a0be46abf8c136e684f82e6c85205dc739b0d441",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49418449",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T13:14:25.297000Z"
+        },
+        {
+          "id": "615756d844dc712f1271a81f80d87bb978a26213",
+          "title": "Anthropic candidates face blunt money question",
+          "title_zh": null,
+          "title_en": "Anthropic candidates face blunt money question",
+          "title_original": "Anthropic candidates face blunt money question",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.axios.com/2026/08/24/scoop-anthropic-candidates-face-blunt-money-question",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T11:55:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T11:55:46Z",
+      "latest_at": "2026-08-24T13:14:25.297000Z",
+      "primary_item": {
+        "id": "a0be46abf8c136e684f82e6c85205dc739b0d441",
+        "title": "Anthropic candidates face blunt money question",
+        "title_zh": null,
+        "title_en": "Anthropic candidates face blunt money question",
+        "title_original": "Anthropic candidates face blunt money question",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49418449",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -1085,7 +1173,7 @@
           "title_en": null,
           "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "summary": null,
-          "recommend_reason_zh": "Hugging Face被曝考虑整体出售，潜在估值或超130亿美元；平台现有近300万公开模型、超100万个数据集，被称为“AI行业GitHub”，其去向将深刻影响开源社区生态。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30571",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1105,7 +1193,7 @@
           "title_en": null,
           "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
           "summary": null,
-          "recommend_reason_zh": "Hugging Face被曝考虑整体出售，潜在估值或超130亿美元；平台现有近300万公开模型、超100万个数据集，被称为“AI行业GitHub”，其去向将深刻影响开源社区生态。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30571",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1115,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1140,130 +1228,16 @@
         "title_en": null,
         "title_original": "“AI行业GitHub”寻求出售，Hugging Face估值或超130亿美元",
         "summary": null,
-        "recommend_reason_zh": "Hugging Face被曝考虑整体出售，潜在估值或超130亿美元；平台现有近300万公开模型、超100万个数据集，被称为“AI行业GitHub”，其去向将深刻影响开源社区生态。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30571",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "出售传闻和估值不写代码，等有实际变动再看。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
-      }
-    },
-    {
-      "story_id": "story_a0aa94a30a96",
-      "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
-      "url": "https://news.ycombinator.com/item?id=49415907",
-      "primary_url": "https://news.ycombinator.com/item?id=49415907",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
-          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
-          "title_zh": "Anthropic Claude 及 API 服务中断",
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": "本文讨论Anthropic Claude与API服务中断，用户指出Bedrock全天稳定，建议尝试Opus 4.8/4.6/4.5旧模型，并批评其基础设施每两周宕机一次，认为Sol更快更便宜更可靠。",
-          "url": "https://news.ycombinator.com/item?id=49415907",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:45:23.515000Z"
-        },
-        {
-          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
-          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
-          "title_zh": "Anthropic Claude 及 API 服务中断",
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": "本文详细记录Anthropic Claude和API服务中断全程，引用Uptime History数据，指出OTP重发等待30秒，webhook端点失败会邮件提醒，值得开发者关注。",
-          "url": "https://status.claude.com/uptime",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T06:32:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
-          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
-          "title_zh": "Anthropic Claude 及 API 服务中断",
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": "本文讨论Anthropic Claude与API服务中断，用户指出Bedrock全天稳定，建议尝试Opus 4.8/4.6/4.5旧模型，并批评其基础设施每两周宕机一次，认为Sol更快更便宜更可靠。",
-          "url": "https://news.ycombinator.com/item?id=49415907",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T08:45:23.515000Z"
-        },
-        {
-          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
-          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
-          "title_zh": "Anthropic Claude 及 API 服务中断",
-          "title_en": "Anthropic Claude and API service outages",
-          "title_original": "Anthropic Claude and API service outages",
-          "summary": null,
-          "recommend_reason_zh": "本文详细记录Anthropic Claude和API服务中断全程，引用Uptime History数据，指出OTP重发等待30秒，webhook端点失败会邮件提醒，值得开发者关注。",
-          "url": "https://status.claude.com/uptime",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-24T06:32:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9579,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T06:32:28Z",
-      "latest_at": "2026-08-24T08:45:23.515000Z",
-      "primary_item": {
-        "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
-        "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
-        "title_zh": "Anthropic Claude 及 API 服务中断",
-        "title_en": "Anthropic Claude and API service outages",
-        "title_original": "Anthropic Claude and API service outages",
-        "summary": null,
-        "recommend_reason_zh": "本文讨论Anthropic Claude与API服务中断，用户指出Bedrock全天稳定，建议尝试Opus 4.8/4.6/4.5旧模型，并批评其基础设施每两周宕机一次，认为Sol更快更便宜更可靠。",
-        "url": "https://news.ycombinator.com/item?id=49415907",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "正在跑 Claude API 的团队先降级，等恢复再切回来。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -1311,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1342,12 +1316,202 @@
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "自研芯片听着大，但开发者用不上，等真机性能和生态落地再说。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
+      }
+    },
+    {
+      "story_id": "story_a0aa94a30a96",
+      "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
+      "url": "https://news.ycombinator.com/item?id=49415907",
+      "primary_url": "https://news.ycombinator.com/item?id=49415907",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
+          "title_zh": "Anthropic Claude 及 API 服务中断",
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415907",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:45:23.515000Z"
+        },
+        {
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
+          "title_zh": "Anthropic Claude 及 API 服务中断",
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
+          "title_zh": "Anthropic Claude 及 API 服务中断",
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415907",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T08:45:23.515000Z"
+        },
+        {
+          "id": "35baf536b42ef0e045df019f59a286cf27eb2c64",
+          "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
+          "title_zh": "Anthropic Claude 及 API 服务中断",
+          "title_en": "Anthropic Claude and API service outages",
+          "title_original": "Anthropic Claude and API service outages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://status.claude.com/uptime",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-24T06:32:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9374,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-24T06:32:28Z",
+      "latest_at": "2026-08-24T08:45:23.515000Z",
+      "primary_item": {
+        "id": "3983bdd8bc2728e565fa9c4160247dd144bf8ab9",
+        "title": "Anthropic Claude 及 API 服务中断 / Anthropic Claude and API service outages",
+        "title_zh": "Anthropic Claude 及 API 服务中断",
+        "title_en": "Anthropic Claude and API service outages",
+        "title_original": "Anthropic Claude and API service outages",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49415907",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
+      }
+    },
+    {
+      "story_id": "story_812ca6831101",
+      "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+      "url": "https://www.aibase.com/news/30568",
+      "primary_url": "https://www.aibase.com/news/30568",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_en": null,
+          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30568",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:29:10.607465Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "title_en": null,
+          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30568",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T07:29:10.607465Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9204,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T07:29:10.607465Z",
+      "latest_at": "2026-08-24T07:29:10.607465Z",
+      "primary_item": {
+        "id": "f256813569aa7710851e92d40d6da25a75e90d07",
+        "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "title_en": null,
+        "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30568",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -1365,7 +1529,7 @@
           "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "summary": null,
-          "recommend_reason_zh": "该文指出LLM工具失败仅有3个根因——Value、Condition、Intent，并强调这是执行有效的必要条件，而非提升准确率的普通技术。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49415695",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1379,7 +1543,7 @@
           "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "summary": null,
-          "recommend_reason_zh": "文章称LLM工具调用失败仅三因：Value、Condition、Intent；解法是外部清单决定问什么，模型只提问不生成值，配合五层溯源查找，有未知就记录不执行。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -1400,7 +1564,7 @@
           "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "summary": null,
-          "recommend_reason_zh": "该文指出LLM工具失败仅有3个根因——Value、Condition、Intent，并强调这是执行有效的必要条件，而非提升准确率的普通技术。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49415695",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1414,7 +1578,7 @@
           "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
           "summary": null,
-          "recommend_reason_zh": "文章称LLM工具调用失败仅三因：Value、Condition、Intent；解法是外部清单决定问什么，模型只提问不生成值，配合五层溯源查找，有未知就记录不执行。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -1424,15 +1588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9579,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1448,214 +1612,16 @@
         "title_en": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
         "title_original": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
         "summary": null,
-        "recommend_reason_zh": "该文指出LLM工具失败仅有3个根因——Value、Condition、Intent，并强调这是执行有效的必要条件，而非提升准确率的普通技术。",
+        "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49415695",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "分析框架有启发，但没给现成方案，排查工具问题时可以当checklist用。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
-      }
-    },
-    {
-      "story_id": "story_812ca6831101",
-      "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-      "url": "https://www.aibase.com/news/30568",
-      "primary_url": "https://www.aibase.com/news/30568",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_en": null,
-          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "summary": null,
-          "recommend_reason_zh": "Alibaba DAMO Academy的肝癌AI模型DAMO LiON登上《自然·医学》：真实前瞻试验中为超万名患者读片，揪出15例漏诊肿瘤，医生阅片时间缩短27%，恶性病灶敏感度提升11.5%。",
-          "url": "https://www.aibase.com/news/30568",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:29:10.607465Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-          "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "title_en": null,
-          "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-          "summary": null,
-          "recommend_reason_zh": "Alibaba DAMO Academy的肝癌AI模型DAMO LiON登上《自然·医学》：真实前瞻试验中为超万名患者读片，揪出15例漏诊肿瘤，医生阅片时间缩短27%，恶性病灶敏感度提升11.5%。",
-          "url": "https://www.aibase.com/news/30568",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T07:29:10.607465Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9405,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T07:29:10.607465Z",
-      "latest_at": "2026-08-24T07:29:10.607465Z",
-      "primary_item": {
-        "id": "f256813569aa7710851e92d40d6da25a75e90d07",
-        "title": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-        "title_zh": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-        "title_en": null,
-        "title_original": "阿里达摩院肝癌AI模型登上《自然·医学》：两个月揪出 15 例漏诊肿瘤",
-        "summary": null,
-        "recommend_reason_zh": "Alibaba DAMO Academy的肝癌AI模型DAMO LiON登上《自然·医学》：真实前瞻试验中为超万名患者读片，揪出15例漏诊肿瘤，医生阅片时间缩短27%，恶性病灶敏感度提升11.5%。",
-        "url": "https://www.aibase.com/news/30568",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "医疗AI顶刊背书证明落地可行，但没开源也没API，暂不改变工作方式。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
-      }
-    },
-    {
-      "story_id": "story_013a5db6bd34",
-      "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-      "url": "https://news.ycombinator.com/item?id=49415852",
-      "primary_url": "https://news.ycombinator.com/item?id=49415852",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
-          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
-          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
-          "summary": null,
-          "recommend_reason_zh": "本文展示一款OCR工具：固定屏幕区域后按热键逐页抓取，将整本书转为可复制文本供LLM使用；同时提到HN对生成式README的批评，以及个人数据在Microsoft与Google之间均不可信。",
-          "url": "https://news.ycombinator.com/item?id=49415852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T07:13:48.516000Z"
-        },
-        {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
-          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
-          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
-          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
-          "summary": null,
-          "recommend_reason_zh": "OCR It是Chrome扩展，可固定屏幕区域，按热键逐页OCR，并支持自动翻页直到文档结束。OCR完全离线运行Tesseract，无API密钥、无网络请求，将无法复制的扫描书变成文本，交给Claude或ChatGPT总结。",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:25:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a808b34637cb68a682bfcf9466a272449d302111",
-          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
-          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
-          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
-          "summary": null,
-          "recommend_reason_zh": "本文展示一款OCR工具：固定屏幕区域后按热键逐页抓取，将整本书转为可复制文本供LLM使用；同时提到HN对生成式README的批评，以及个人数据在Microsoft与Google之间均不可信。",
-          "url": "https://news.ycombinator.com/item?id=49415852",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T07:13:48.516000Z"
-        },
-        {
-          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
-          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
-          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
-          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
-          "summary": null,
-          "recommend_reason_zh": "OCR It是Chrome扩展，可固定屏幕区域，按热键逐页OCR，并支持自动翻页直到文档结束。OCR完全离线运行Tesseract，无API密钥、无网络请求，将无法复制的扫描书变成文本，交给Claude或ChatGPT总结。",
-          "url": "https://github.com/thiagotigaz/ocr-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-24T06:25:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.937,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-24T06:25:31Z",
-      "latest_at": "2026-08-24T07:13:48.516000Z",
-      "primary_item": {
-        "id": "a808b34637cb68a682bfcf9466a272449d302111",
-        "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
-        "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
-        "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
-        "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
-        "summary": null,
-        "recommend_reason_zh": "本文展示一款OCR工具：固定屏幕区域后按热键逐页抓取，将整本书转为可复制文本供LLM使用；同时提到HN对生成式README的批评，以及个人数据在Microsoft与Google之间均不可信。",
-        "url": "https://news.ycombinator.com/item?id=49415852",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "扫描件转文字直接喂 LLM，日常处理文档能省时间，可用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -1673,7 +1639,7 @@
           "title_en": null,
           "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "summary": null,
-          "recommend_reason_zh": "OpenFit 2 AI耳机融合Qianwen AI大模型，售价1398元，单耳仅9.4克，续航48小时，支持IP55防护。文章详解其0.7mm钛丝耳挂与场景翻译功能，值得一读。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30570",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1693,7 +1659,7 @@
           "title_en": null,
           "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
           "summary": null,
-          "recommend_reason_zh": "OpenFit 2 AI耳机融合Qianwen AI大模型，售价1398元，单耳仅9.4克，续航48小时，支持IP55防护。文章详解其0.7mm钛丝耳挂与场景翻译功能，值得一读。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30570",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1703,15 +1669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1728,55 +1694,53 @@
         "title_en": null,
         "title_original": "韶音OpenFit 2 AI耳机震撼首发：融合千问大模型， 48 小时超长续航定义智能音频新体验",
         "summary": null,
-        "recommend_reason_zh": "OpenFit 2 AI耳机融合Qianwen AI大模型，售价1398元，单耳仅9.4克，续航48小时，支持IP55防护。文章详解其0.7mm钛丝耳挂与场景翻译功能，值得一读。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30570",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "消费级耳机+大模型，非开发者工具，做音频AI的可以关注下体验。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
-      "story_id": "story_0c44db5345da",
-      "title": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim / I built a low-latency AI companion that plays Skyrim with me",
-      "url": "https://news.ycombinator.com/item?id=49413561",
-      "primary_url": "https://news.ycombinator.com/item?id=49413561",
+      "story_id": "story_013a5db6bd34",
+      "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
+      "url": "https://news.ycombinator.com/item?id=49415852",
+      "primary_url": "https://news.ycombinator.com/item?id=49415852",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-          "title": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim / I built a low-latency AI companion that plays Skyrim with me",
-          "title_zh": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim",
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "id": "a808b34637cb68a682bfcf9466a272449d302111",
+          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
+          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
+          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
           "summary": null,
-          "recommend_reason_zh": "作者构建了一个低延迟AI同伴，在玩Skyrim时它会对游戏事件做出反应，比如NPC警告有危险时玩家遭狼袭击，AI吐槽“你早该警告我”，并认为这是未来NPC应具备的交互方式。",
-          "url": "https://news.ycombinator.com/item?id=49413561",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415852",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T03:55:33.737000Z"
+          "published_at": "2026-08-24T07:13:48.516000Z"
         },
         {
-          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
-          "title": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim / I built a low-latency AI companion that plays Skyrim with me",
-          "title_zh": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim",
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
+          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
+          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
+          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
           "summary": null,
-          "recommend_reason_zh": "Varkos是一个低延迟AI游戏伙伴，能在Skyrim中实时响应复杂多步指令，比如等箭矢信号后送药水、玩捉迷藏，并通过本地推理实现真正的世界交互。",
-          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thiagotigaz/ocr-it",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T23:18:17Z"
+          "published_at": "2026-08-24T06:25:31Z"
         }
       ],
       "source_count": 2,
@@ -1786,72 +1750,70 @@
       ],
       "items": [
         {
-          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-          "title": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim / I built a low-latency AI companion that plays Skyrim with me",
-          "title_zh": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim",
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "id": "a808b34637cb68a682bfcf9466a272449d302111",
+          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
+          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
+          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
           "summary": null,
-          "recommend_reason_zh": "作者构建了一个低延迟AI同伴，在玩Skyrim时它会对游戏事件做出反应，比如NPC警告有危险时玩家遭狼袭击，AI吐槽“你早该警告我”，并认为这是未来NPC应具备的交互方式。",
-          "url": "https://news.ycombinator.com/item?id=49413561",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49415852",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-24T03:55:33.737000Z"
+          "published_at": "2026-08-24T07:13:48.516000Z"
         },
         {
-          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
-          "title": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim / I built a low-latency AI companion that plays Skyrim with me",
-          "title_zh": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim",
-          "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-          "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+          "id": "a0f9e4966dc1be42d5d26b861f1b0248c10a98fa",
+          "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
+          "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
+          "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+          "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
           "summary": null,
-          "recommend_reason_zh": "Varkos是一个低延迟AI游戏伙伴，能在Skyrim中实时响应复杂多步指令，比如等箭矢信号后送药水、玩捉迷藏，并通过本地推理实现真正的世界交互。",
-          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/thiagotigaz/ocr-it",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-23T23:18:17Z"
+          "published_at": "2026-08-24T06:25:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8933,
+        "recency": 0.917,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-23T23:18:17Z",
-      "latest_at": "2026-08-24T03:55:33.737000Z",
+      "earliest_at": "2026-08-24T06:25:31Z",
+      "latest_at": "2026-08-24T07:13:48.516000Z",
       "primary_item": {
-        "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
-        "title": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim / I built a low-latency AI companion that plays Skyrim with me",
-        "title_zh": "我打造了一个低延迟 AI 伙伴，陪我一起玩 Skyrim",
-        "title_en": "I built a low-latency AI companion that plays Skyrim with me",
-        "title_original": "I built a low-latency AI companion that plays Skyrim with me",
+        "id": "a808b34637cb68a682bfcf9466a272449d302111",
+        "title": "OCR一下——从无法复制的文档中提取文本，喂给LLM。 / OCR It – pull text out of un-copyable documents for your LLM",
+        "title_zh": "OCR一下——从无法复制的文档中提取文本，喂给LLM。",
+        "title_en": "OCR It – pull text out of un-copyable documents for your LLM",
+        "title_original": "OCR It – pull text out of un-copyable documents for your LLM",
         "summary": null,
-        "recommend_reason_zh": "作者构建了一个低延迟AI同伴，在玩Skyrim时它会对游戏事件做出反应，比如NPC警告有危险时玩家遭狼袭击，AI吐槽“你早该警告我”，并认为这是未来NPC应具备的交互方式。",
-        "url": "https://news.ycombinator.com/item?id=49413561",
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49415852",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "个人项目参考价值有限，想抄思路可看，别指望直接上手。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     },
     {
@@ -1869,7 +1831,7 @@
           "title_en": null,
           "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
           "summary": null,
-          "recommend_reason_zh": "月之暗面宣布Kimi K2.5月底退役，这款万亿参数多模态模型1月开源，支持视觉与文本输入，接棒者Kimi K3达2.8万亿参数，上下文窗口1百万token。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30563",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1889,7 +1851,7 @@
           "title_en": null,
           "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
           "summary": null,
-          "recommend_reason_zh": "月之暗面宣布Kimi K2.5月底退役，这款万亿参数多模态模型1月开源，支持视觉与文本输入，接棒者Kimi K3达2.8万亿参数，上下文窗口1百万token。",
+          "recommend_reason_zh": null,
           "url": "https://www.aibase.com/news/30563",
           "source": "AIbase",
           "source_name": "AIbase",
@@ -1899,21 +1861,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9191,
+        "recency": 0.8995,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-24T05:53:52.331676Z",
       "latest_at": "2026-08-24T05:53:52.331676Z",
@@ -1924,18 +1885,16 @@
         "title_en": null,
         "title_original": "Kimi K2.5 月底退役：月之暗面第一代万亿参数多模态模型谢幕",
         "summary": null,
-        "recommend_reason_zh": "月之暗面宣布Kimi K2.5月底退役，这款万亿参数多模态模型1月开源，支持视觉与文本输入，接棒者Kimi K3达2.8万亿参数，上下文窗口1百万token。",
+        "recommend_reason_zh": null,
         "url": "https://www.aibase.com/news/30563",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "模型退役得换新，接口兼容性先查，迁移成本不高。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-08-24T12:00:53.780505Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-24T13:22:13.424598Z"
       }
     }
   ]
