@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:31:03.024917Z",
+  "generated_at": "2026-10-03T06:34:23.797127Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8875,
+        "recency": 0.8132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,12 +83,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
       "story_id": "story_cc4a44476dc4",
-      "title": "Copilot code review: API support and new default effort level",
+      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
       "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
       "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
       "source": "GitHub Changelog",
@@ -96,8 +96,8 @@
       "sources": [
         {
           "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot code review: API support and new default effort level",
-          "title_zh": null,
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
           "title_en": "Copilot code review: API support and new default effort level",
           "title_original": "Copilot code review: API support and new default effort level",
           "summary": null,
@@ -116,8 +116,8 @@
       "items": [
         {
           "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot code review: API support and new default effort level",
-          "title_zh": null,
+          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
           "title_en": "Copilot code review: API support and new default effort level",
           "title_original": "Copilot code review: API support and new default effort level",
           "summary": null,
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9265,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "official",
@@ -152,8 +152,8 @@
       "latest_at": "2026-10-02T19:13:50Z",
       "primary_item": {
         "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot code review: API support and new default effort level",
-        "title_zh": null,
+        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
+        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
         "title_en": "Copilot code review: API support and new default effort level",
         "title_original": "Copilot code review: API support and new default effort level",
         "summary": null,
@@ -166,12 +166,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
       "story_id": "story_2e2e433e3cb1",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
       "url": "https://huggingface.co/blog/allenai/astabrief",
       "primary_url": "https://huggingface.co/blog/allenai/astabrief",
       "source": "Hugging Face Blog",
@@ -179,8 +179,8 @@
       "sources": [
         {
           "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_zh": null,
+          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
           "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "summary": null,
@@ -199,8 +199,8 @@
       "items": [
         {
           "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "title_zh": null,
+          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
           "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "summary": null,
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8758,
+        "recency": 0.8024,
         "story_heat": 0.0
       },
       "category": "official",
@@ -235,8 +235,8 @@
       "latest_at": "2026-10-02T15:19:50Z",
       "primary_item": {
         "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "title_zh": null,
+        "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
         "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
         "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
         "summary": null,
@@ -249,23 +249,23 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
-      "story_id": "story_d0ecf0e85035",
-      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "story_id": "story_8929dc6acd37",
+      "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
       "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
       "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
       "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-          "title": "AI is changing developer work. Here are three skills to strengthen.",
-          "title_zh": null,
-          "title_en": "AI is changing developer work. Here are three skills to strengthen.",
-          "title_original": "AI is changing developer work. Here are three skills to strengthen.",
+          "id": "16e311d52410a05b592402e68322476c2a4512bd",
+          "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
+          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
@@ -281,11 +281,11 @@
       ],
       "items": [
         {
-          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-          "title": "AI is changing developer work. Here are three skills to strengthen.",
-          "title_zh": null,
-          "title_en": "AI is changing developer work. Here are three skills to strengthen.",
-          "title_original": "AI is changing developer work. Here are three skills to strengthen.",
+          "id": "16e311d52410a05b592402e68322476c2a4512bd",
+          "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
+          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8716,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -317,11 +317,11 @@
       "earliest_at": "2026-10-02T15:00:00Z",
       "latest_at": "2026-10-02T15:00:00Z",
       "primary_item": {
-        "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-        "title": "AI is changing developer work. Here are three skills to strengthen.",
-        "title_zh": null,
-        "title_en": "AI is changing developer work. Here are three skills to strengthen.",
-        "title_original": "AI is changing developer work. Here are three skills to strengthen.",
+        "id": "16e311d52410a05b592402e68322476c2a4512bd",
+        "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
+        "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
@@ -332,12 +332,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
       "story_id": "story_79c5530db8f1",
-      "title": "The latest AI news we announced in September 2026",
+      "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
       "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
       "source": "Google AI Blog",
@@ -345,8 +345,8 @@
       "sources": [
         {
           "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-          "title": "The latest AI news we announced in September 2026",
-          "title_zh": null,
+          "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+          "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
           "title_en": "The latest AI news we announced in September 2026",
           "title_original": "The latest AI news we announced in September 2026",
           "summary": null,
@@ -365,8 +365,8 @@
       "items": [
         {
           "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-          "title": "The latest AI news we announced in September 2026",
-          "title_zh": null,
+          "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+          "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
           "title_en": "The latest AI news we announced in September 2026",
           "title_original": "The latest AI news we announced in September 2026",
           "summary": null,
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8716,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,8 +401,8 @@
       "latest_at": "2026-10-02T15:00:00Z",
       "primary_item": {
         "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-        "title": "The latest AI news we announced in September 2026",
-        "title_zh": null,
+        "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+        "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
         "title_en": "The latest AI news we announced in September 2026",
         "title_original": "The latest AI news we announced in September 2026",
         "summary": null,
@@ -415,12 +415,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
       "story_id": "story_3f3282702712",
-      "title": "Stateless GitHub App installation tokens rolled out",
+      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
       "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
       "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
       "source": "GitHub Changelog",
@@ -428,8 +428,8 @@
       "sources": [
         {
           "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "Stateless GitHub App installation tokens rolled out",
-          "title_zh": null,
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
           "title_en": "Stateless GitHub App installation tokens rolled out",
           "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
@@ -448,8 +448,8 @@
       "items": [
         {
           "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "Stateless GitHub App installation tokens rolled out",
-          "title_zh": null,
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
           "title_en": "Stateless GitHub App installation tokens rolled out",
           "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9686,
+        "recency": 0.8875,
         "story_heat": 0.0
       },
       "category": "official",
@@ -484,8 +484,8 @@
       "latest_at": "2026-10-02T22:18:23Z",
       "primary_item": {
         "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-        "title": "Stateless GitHub App installation tokens rolled out",
-        "title_zh": null,
+        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+        "title_zh": "无状态 GitHub 应用程序安装令牌推出",
         "title_en": "Stateless GitHub App installation tokens rolled out",
         "title_original": "Stateless GitHub App installation tokens rolled out",
         "summary": null,
@@ -498,23 +498,105 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
-      "story_id": "story_8929dc6acd37",
-      "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "story_id": "story_97d81b2ddd17",
+      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+      "url": "https://www.ithome.com/1/009/444.htm",
+      "primary_url": "https://www.ithome.com/1/009/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "title_en": null,
+          "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T06:18:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9962,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T06:18:38Z",
+      "latest_at": "2026-10-03T06:18:38Z",
+      "primary_item": {
+        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
+        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_zh": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "title_en": null,
+        "title_original": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
+        "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/009/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T06:35:16.050363Z"
+      }
+    },
+    {
+      "story_id": "story_d0ecf0e85035",
+      "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
       "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
       "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
       "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "16e311d52410a05b592402e68322476c2a4512bd",
-          "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_zh": null,
-          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
+          "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
+          "title_zh": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。",
+          "title_en": "AI is changing developer work. Here are three skills to strengthen.",
+          "title_original": "AI is changing developer work. Here are three skills to strengthen.",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
@@ -530,11 +612,11 @@
       ],
       "items": [
         {
-          "id": "16e311d52410a05b592402e68322476c2a4512bd",
-          "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_zh": null,
-          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
+          "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
+          "title_zh": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。",
+          "title_en": "AI is changing developer work. Here are three skills to strengthen.",
+          "title_original": "AI is changing developer work. Here are three skills to strengthen.",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
@@ -546,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8716,
+        "recency": 0.7986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -566,11 +648,11 @@
       "earliest_at": "2026-10-02T15:00:00Z",
       "latest_at": "2026-10-02T15:00:00Z",
       "primary_item": {
-        "id": "16e311d52410a05b592402e68322476c2a4512bd",
-        "title": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-        "title_zh": null,
-        "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
-        "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
+        "title": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。 / AI is changing developer work. Here are three skills to strengthen.",
+        "title_zh": "人工智能正在改变开发人员的工作。以下是需要加强的三个技能。",
+        "title_en": "AI is changing developer work. Here are three skills to strengthen.",
+        "title_original": "AI is changing developer work. Here are three skills to strengthen.",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
@@ -581,90 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
-      }
-    },
-    {
-      "story_id": "story_7d80f29039e4",
-      "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_zh": "AutoSynthData：为企业代理生成训练数据",
-          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_zh": "AutoSynthData：为企业代理生成训练数据",
-          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7438,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T04:01:31Z",
-      "latest_at": "2026-10-02T04:01:31Z",
-      "primary_item": {
-        "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-        "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-        "title_zh": "AutoSynthData：为企业代理生成训练数据",
-        "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
@@ -712,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7817,
-      "importance": 0.7817,
-      "importance_score": 0.7817,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.926,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -746,12 +745,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
       "story_id": "story_aef691a327ab",
-      "title": "Selected models in GitHub Copilot deprecated",
+      "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
       "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
       "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
       "source": "GitHub Changelog",
@@ -759,8 +758,8 @@
       "sources": [
         {
           "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "Selected models in GitHub Copilot deprecated",
-          "title_zh": null,
+          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
           "title_en": "Selected models in GitHub Copilot deprecated",
           "title_original": "Selected models in GitHub Copilot deprecated",
           "summary": null,
@@ -779,8 +778,8 @@
       "items": [
         {
           "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "Selected models in GitHub Copilot deprecated",
-          "title_zh": null,
+          "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
+          "title_zh": "已弃用 GitHub Copilot 中的选定模型",
           "title_en": "Selected models in GitHub Copilot deprecated",
           "title_original": "Selected models in GitHub Copilot deprecated",
           "summary": null,
@@ -794,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9155,
+        "recency": 0.8389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -815,8 +814,8 @@
       "latest_at": "2026-10-02T18:24:19Z",
       "primary_item": {
         "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "Selected models in GitHub Copilot deprecated",
-        "title_zh": null,
+        "title": "已弃用 GitHub Copilot 中的选定模型 / Selected models in GitHub Copilot deprecated",
+        "title_zh": "已弃用 GitHub Copilot 中的选定模型",
         "title_en": "Selected models in GitHub Copilot deprecated",
         "title_original": "Selected models in GitHub Copilot deprecated",
         "summary": null,
@@ -829,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
@@ -877,15 +876,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9478,
+        "recency": 0.8685,
         "story_heat": 0.0
       },
       "category": "official",
@@ -911,7 +910,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
@@ -959,21 +958,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T19:48:16Z",
       "latest_at": "2026-10-02T19:48:16Z",
@@ -993,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
@@ -1041,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.735,
+      "importance": 0.735,
+      "importance_score": 0.735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9118,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
@@ -1122,15 +1120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7402,
-      "importance": 0.7402,
-      "importance_score": 0.7402,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7808,
+        "recency": 0.7155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
@@ -1203,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9527,
+        "recency": 0.8729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,93 +1234,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
-      }
-    },
-    {
-      "story_id": "story_fb1107e372ac",
-      "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "primary_url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8829,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T15:53:39Z",
-      "latest_at": "2026-10-02T15:53:39Z",
-      "primary_item": {
-        "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-        "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-        "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-        "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-        "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-        "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GoogleAI/status/2106049984164463069",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
       "story_id": "story_14dc0c8581ff",
-      "title": "New fields for SecurityAdvisory GraphQL API",
+      "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
       "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
       "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
       "source": "GitHub Changelog",
@@ -1330,8 +1247,8 @@
       "sources": [
         {
           "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "New fields for SecurityAdvisory GraphQL API",
-          "title_zh": null,
+          "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 的新字段",
           "title_en": "New fields for SecurityAdvisory GraphQL API",
           "title_original": "New fields for SecurityAdvisory GraphQL API",
           "summary": null,
@@ -1350,8 +1267,8 @@
       "items": [
         {
           "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-          "title": "New fields for SecurityAdvisory GraphQL API",
-          "title_zh": null,
+          "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 的新字段",
           "title_en": "New fields for SecurityAdvisory GraphQL API",
           "title_original": "New fields for SecurityAdvisory GraphQL API",
           "summary": null,
@@ -1365,15 +1282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8043,
+      "importance": 0.8043,
+      "importance_score": 0.8043,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8505,
+        "recency": 0.7792,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1386,8 +1303,8 @@
       "latest_at": "2026-10-02T13:18:00Z",
       "primary_item": {
         "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
-        "title": "New fields for SecurityAdvisory GraphQL API",
-        "title_zh": null,
+        "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
+        "title_zh": "SecurityAdvisory GraphQL API 的新字段",
         "title_en": "New fields for SecurityAdvisory GraphQL API",
         "title_original": "New fields for SecurityAdvisory GraphQL API",
         "summary": null,
@@ -1400,169 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
-      }
-    },
-    {
-      "story_id": "story_3a793ac15e27",
-      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-      "url": "https://www.primeintellect.ai/blog/prime-inference",
-      "primary_url": "https://www.primeintellect.ai/blog/prime-inference",
-      "source": "Prime Intellect（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-          "recommend_reason_zh": null,
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Prime Intellect（网页）"
-      ],
-      "items": [
-        {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-          "recommend_reason_zh": null,
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9478,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T20:48:29.782682Z",
-      "latest_at": "2026-10-02T20:48:29.782682Z",
-      "primary_item": {
-        "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点 / Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "title_zh": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-        "title_en": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "title_original": "Prime Inference: Fast, Reliable Serving for Frontier Open Models",
-        "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-        "recommend_reason_zh": null,
-        "url": "https://www.primeintellect.ai/blog/prime-inference",
-        "source": "Prime Intellect（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
-      }
-    },
-    {
-      "story_id": "story_d023c4690eff",
-      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T13:00:39Z",
-      "latest_at": "2026-10-02T13:00:39Z",
-      "primary_item": {
-        "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-        "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     },
     {
@@ -1610,15 +1365,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.931,
+        "recency": 0.853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1643,7 +1398,283 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T01:04:00.304884Z"
+        "scored_at": "2026-10-03T06:35:16.050363Z"
+      }
+    },
+    {
+      "story_id": "story_8251eed32ade",
+      "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7788,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
+      "primary_item": {
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+        "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+        "title_en": "Repository security advisory comments API in public preview",
+        "title_original": "Repository security advisory comments API in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T06:35:16.050363Z"
+      }
+    },
+    {
+      "story_id": "story_7ba973037a20",
+      "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
+          "title_en": "Confidential comments on repository security advisories",
+          "title_original": "Confidential comments on repository security advisories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
+          "title_en": "Confidential comments on repository security advisories",
+          "title_original": "Confidential comments on repository security advisories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7788,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:40Z",
+      "latest_at": "2026-10-02T13:15:40Z",
+      "primary_item": {
+        "id": "75d3ae652733e012708727418c039e9c82d67827",
+        "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+        "title_zh": "关于代码仓库安全建议的机密评论",
+        "title_en": "Confidential comments on repository security advisories",
+        "title_original": "Confidential comments on repository security advisories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T06:35:16.050363Z"
+      }
+    },
+    {
+      "story_id": "story_2b013d60b571",
+      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6193,
+      "importance": 0.6193,
+      "importance_score": 0.6193,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8363,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T18:11:27Z",
+      "latest_at": "2026-10-02T19:03:03Z",
+      "primary_item": {
+        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+        "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T06:35:16.050363Z"
       }
     }
   ]
